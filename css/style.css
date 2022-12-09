@@ -107,6 +107,7 @@ img {
 /* Categorias y Imagenes*/
 .categorias {
     padding-top: 5rem;
+    padding-bottom: 5rem;
 }
 
 .categorias a {
